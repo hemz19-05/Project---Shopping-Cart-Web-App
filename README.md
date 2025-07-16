@@ -8,8 +8,7 @@ A simple, full-stack Shopping Cart app built with **Flask (Python)** as the back
 
 ## 📸 Preview
 
-![screenshot](<img width="1315" height="641" alt="Screenshot 2025-07-16 173323" src="https://github.com/user-attachments/assets/b2d7ef8f-da3c-4d5d-b1fb-971710c7afcf" />
-)
+![screenshot](https://github.com/hemz19-05/Project---Shopping-Cart-Web-App/issues/1)
 
 ---
 
