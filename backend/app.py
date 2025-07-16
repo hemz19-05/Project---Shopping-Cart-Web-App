@@ -47,4 +47,4 @@ def clear_cart():
     return jsonify({'message': f'Cart is cleared!'}), 200
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host='0.0.0.0', port=5000)
