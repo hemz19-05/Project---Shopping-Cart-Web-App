@@ -6,6 +6,10 @@ CORS(app)
 
 cart = {}
 
+@app.route('/')
+def home():
+    return 'Shopping Cart API is running!'
+
 @app.route('/add', methods=['POST'])
 def add_item():
     data = request.json
@@ -47,4 +51,4 @@ def clear_cart():
     return jsonify({'message': f'Cart is cleared!'}), 200
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host='0.0.0.0', port=5000)
