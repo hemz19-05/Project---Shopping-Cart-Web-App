@@ -6,6 +6,10 @@ CORS(app)
 
 cart = {}
 
+@app.route('/')
+def home():
+    return 'Shopping Cart API is running!'
+
 @app.route('/add', methods=['POST'])
 def add_item():
     data = request.json
