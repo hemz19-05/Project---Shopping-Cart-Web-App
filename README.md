@@ -8,7 +8,7 @@ A simple, full-stack Shopping Cart app built with **Flask (Python)** as the back
 
 ## 📸 Preview
 
-![screenshot](https://github.com/hemz19-05/Project---Shopping-Cart-Web-App/issues/1)
+![screenshot](https://private-user-images.githubusercontent.com/172398841/466952732-d985ba73-a812-42fe-b65a-e32f2b68ad8e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI2NjI3ODUsIm5iZiI6MTc1MjY2MjQ4NSwicGF0aCI6Ii8xNzIzOTg4NDEvNDY2OTUyNzMyLWQ5ODViYTczLWE4MTItNDJmZS1iNjVhLWUzMmYyYjY4YWQ4ZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcxNlQxMDQxMjVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zNTE1OWYyMjA0OGZjZTE5ZmUyMGY1ZjJhZTdmOGU4ODQ2MzRkYjgzYmFhYjEyMzhhZjk5NWY1NGNkYjlkNTZlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.iTTcG4eumhT9CMkjq90sXp9s16NXFzTmLoW9mhOHuYU)
 
 ---
 
