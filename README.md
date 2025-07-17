@@ -5,10 +5,12 @@ A simple, full-stack Shopping Cart app built with **Flask (Python)** as the back
 > 🚀 My first web app project — built from scratch to sharpen my backend logic and API design skills, with a working frontend to simulate a real-world e-commerce experience.
 
 ---
+
 ## ✨ Live Demo
 
 - 🔗 **Frontend (Vercel)**: [shopping-cart-web-app-zeta.vercel.app](https://shopping-cart-web-app-zeta.vercel.app)
 - 🖥️ **Backend API (Render)**: [shopping-cart-web-app-6vz9.onrender.com](https://shopping-cart-web-app-6vz9.onrender.com)
+
 
 
 ## 📸 Preview
@@ -60,3 +62,6 @@ As someone transitioning into tech from a non-coding background, I built this pr
 - Add user login/authentication
 - Store data in a real database using SQLAlchemy
 - Improve frontend with React or Bootstrap
+
+## 🌟 If you liked this project...
+Give it a ⭐ on GitHub, clone it, play with it, and follow along my journey!
